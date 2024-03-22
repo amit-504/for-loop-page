@@ -497,6 +497,10 @@
     letter-spacing: 0em;
     text-align: left;
 }
+.fit-content{
+    width: fit-content;
+    display: flex;
+}
 
 .foot-text1:hover {
     cursor: pointer;
