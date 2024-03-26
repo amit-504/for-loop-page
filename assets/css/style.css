@@ -539,6 +539,7 @@
     letter-spacing: 0em;
     text-align: center;
 }
+.show-box:hover{cursor: pointer;}
 
 .foot-last {
     color: #FFFFFF;
