@@ -255,6 +255,8 @@
 
 .btn-info1:hover {
     cursor: pointer;
+    background-color: #FFFFFF;
+    color: #2C49FE;
 }
 
 .links {
